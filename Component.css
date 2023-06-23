@@ -1,0 +1,58 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+body{
+    background-color: hsl(233, 47%, 7%);
+    padding: 140px,140px;
+
+}
+.Flex{
+    display: flex;
+   
+    
+}
+
+.left-Flex{
+    height: 100vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.rigt-Flex{
+    height: 100vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(image-header-desktop.jpg);
+    background-repeat: no-repeat;
+    margin: 100px;
+}
+.colour{
+    height: 100vh;
+    width: 100%;
+  
+    background-color:  hsl(277, 64%, 61%,.5);
+   
+}
+.Get{
+    color: aliceblue;
+}
+.InsColour{
+    color: rgb(65, 8, 117);
+}
+
+.Discover{
+    color: aliceblue;
+}
+.colourOne{
+    background-color: hsl(277, 64%, 61%);
+}
+.ListLikes{
+ display: flex;
+ gap: 45px;
+
+}
